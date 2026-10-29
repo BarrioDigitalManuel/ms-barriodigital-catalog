@@ -10,9 +10,9 @@ spring:
     name: ms-barriodigital-catalog
 
   datasource:
-    url: jdbc:postgresql://ep-wandering-bar-acik3s9y-pooler.sa-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+    url: jdbc:postgresql://ep-red-thunder-b600lu3g-pooler.c-2.sa-east-1.aws.neon.tech/neondb?sslmode=require
     username: neondb_owner
-    password: npg_rPx9j4viWscf
+    password: npg_hxP6Ti9tqAQw
     driver-class-name: org.postgresql.Driver
 
   jpa:
